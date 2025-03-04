@@ -13,7 +13,7 @@ Laravel приложение для получения и хранения да�
 
 1. Клонировать репозиторий:
 ```bash
-git clone <repository-url>
+git clone https://github.com/webdeveloper94/wb-api-client.git
 cd wb-api-client
 ```
 
@@ -35,9 +35,9 @@ cp .env.example .env
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=wb_api_data
-DB_USERNAME=root
-DB_PASSWORD=
+DB_DATABASE=testsyiu_apitest
+DB_USERNAME=testsyiu_apitest
+DB_PASSWORD=Aspire578
 ```
 
 ## Запуск миграций
